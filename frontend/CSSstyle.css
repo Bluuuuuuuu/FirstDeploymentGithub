@@ -220,3 +220,6 @@ body {
     background-color: floralwhite;
     float:left;
 }
+td {
+    max-width: 700px;
+}

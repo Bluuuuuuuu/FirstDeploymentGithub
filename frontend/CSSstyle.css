@@ -215,4 +215,8 @@ body {
 }
 #contact-form {
     max-width: 700px;
+    height: auto;
+    padding: 25px;
+    background-color: floralwhite;
+    float:left;
 }
